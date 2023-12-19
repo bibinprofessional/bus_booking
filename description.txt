@@ -1,0 +1,4 @@
+BUS TICKET BOOKING:
+
+ This is the simple bus ticket booking program coded using python programming language.
+ In this program the user should first register and then sign-in to book the ticket. In this program the bus is available to only three locations(chennai, coimbatore, bangalore).
